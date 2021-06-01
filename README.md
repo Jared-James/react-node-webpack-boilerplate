@@ -1,4 +1,4 @@
-# react-node-webpack-boilerplate
+# react-node-webpack-boilerplate v 1.1
 
 For jumping into new projects that need React | webpack | SASS
 
@@ -27,3 +27,6 @@ NPM build - concurrrently runs NPM start & NPM dev
 Server code runs on localhost:3000
 Client code runs on localhost:8080
 ```
+
+
+updated on 1/06/2021
